@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gyelthecoder
 - 👀 I’m interested in learning frontend development build-ups
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🌱 I’m currently working with HTML,CSS,Javascript,jquery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
